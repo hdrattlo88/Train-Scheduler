@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+.container{
+    background-color: lightblue;
+}
+.jumbotron{
+    background-color: #030303;
+    color: white;
+    background-image: url("data:image/svg+xml,%3Csvg width='40' height='1' viewBox='0 0 40 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20v1H0z' fill='%23d0e0e9' fill-opacity='0.19' fill-rule='evenodd'/%3E%3C/svg%3E");
+    font-family: 'Special Elite', cursive;
+}
+.card-body{
+    background-color: black;
+    color: white;
+    font-family: 'Special Elite', cursive;
+}
+.p-4{
+    background-color: black;
+}
+#at{
+    font-family: 'Special Elite', cursive;
+    font-size: 24px;
+}
+#ts{
+    font-family: 'Special Elite', cursive;
+    font-size: 24px;
+}
